@@ -1,0 +1,1 @@
+I am unable to reconstruct text from a PDF document. Could you please provide me with an original input text or any specific task requirements?

@@ -1,0 +1,1 @@
+The document is empty. Please provide a new input text.

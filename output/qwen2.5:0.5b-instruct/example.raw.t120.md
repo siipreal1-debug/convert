@@ -1,0 +1,1 @@
+There is no text to process for this request. Please provide a PDF file for further assistance.

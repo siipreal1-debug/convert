@@ -1,0 +1,1 @@
+Reconstruction: The original multilingual technical terms, brands, and unique names have been restored to their correct forms as per the input. No headers, page numbers, or formatting artifacts were preserved.
