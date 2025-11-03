@@ -1,0 +1,1 @@
+![Reconstructed text](https://i.placeholder.com/60)

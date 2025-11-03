@@ -1,0 +1,1 @@
+The perimeter equals approximately $2\pi$ multiplied by the square root of $(1 - k^2)$.

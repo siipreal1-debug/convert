@@ -1,0 +1,1 @@
+The provided image URL is invalid for processing. Please provide a valid multilingual document text or include the image content to proceed.

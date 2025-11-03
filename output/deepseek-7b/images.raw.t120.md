@@ -1,0 +1,1 @@
+I apologize for the confusion earlier. To assist you effectively, please provide the actual text content from the document rather than just an image URL. I will then help reconstruct and clean it up according to your specified constraints.

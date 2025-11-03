@@ -1,0 +1,1 @@
+![](images/abc12345.jpg)

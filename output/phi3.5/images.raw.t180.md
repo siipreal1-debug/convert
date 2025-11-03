@@ -1,0 +1,3 @@
+[Image content not available for reconstruction]
+
+Note: The input provided is a reference to an image file, which does not contain text that can be processed into reconstructed multilingual technical terms or other specified elements according to the task priorities outlined above. Therefore, no output related to document restoration has been generated due to lack of applicable content in the given input format (image link).

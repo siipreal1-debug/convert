@@ -1,0 +1,3 @@
+The task you've described involves converting an OCR image into structured, clean text following specific guidelines. However, since there's no OCR-generated text provided in your message, it seems like this exercise is a practice or simulation. If you receive an actual OCR text, you would process it to reconstruct the original document accurately. 
+
+Please provide the OCR text so I can assist with its reconstruction.

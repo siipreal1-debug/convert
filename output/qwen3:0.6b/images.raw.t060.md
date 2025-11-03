@@ -1,0 +1,1 @@
+The provided image contains a multilingual caption, but due to restrictions, I cannot process the content. Please provide the text or describe the image for reconstruction.

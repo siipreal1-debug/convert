@@ -19,10 +19,10 @@ MODELS = {
     "phi3.5"                        :  "phi3.5:3.8b-mini-instruct-q4_K_M",
     "deepseekr1:1.5b"               :  "deepseek-r1:1.5b",
     "qwen2.5:1.5b-instruct-q4_K_M"  :  "qwen2.5:1.5b-instruct-q4_K_M",
-    "deepseek-7b"                   :  "deepseek-r1:7b-qwen-distill-q4_K_M",
     "qwen2.5:0.5b-instruct-q4_K_M"  :  "qwen2.5:0.5b-instruct-q4_K_M",
     "qwen3:0.6b"                    :  "qwen3:0.6b",
-    "qwen3"                         :  "qwen3:4b"
+    "qwen3"                         :  "qwen3:4b",
+    "deepseek-7b"                   :  "deepseek-r1:7b-qwen-distill-q4_K_M"
 }
 
 # === ТЕМПЕРАТУРЫ ===

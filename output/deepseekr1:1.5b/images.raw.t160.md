@@ -1,0 +1,1 @@
+"Symbol represents a vector in matrices."

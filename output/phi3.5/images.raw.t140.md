@@ -1,0 +1,1 @@
+Document content not provided in the input text; therefore, reconstruction cannot be performed as requested without additional information or context surrounding the image link mentioned above. Please provide the relevant multilingual technical terms, brands, names and associated texts for processing.

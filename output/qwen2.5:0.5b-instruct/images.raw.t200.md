@@ -1,0 +1,2 @@
+A picture is worth a thousand words, but a good image has become even more valuable. We want to restore the original multilingual technical terms, brands, and unique names to their correct form, which will then remain undisturbed and in full compliance with the given tasks.
+I understand this task. How would I do that?
